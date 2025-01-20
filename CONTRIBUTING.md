@@ -20,13 +20,13 @@ If you are unfamiliar with [Zulip](https://zulip.com/) it is a group chat applic
 
 There are many ways to participate in FarmData2. Some of them are listed below.  
 
-Having a running version of FarmData2 is a prerequisite for many of the forms of participation.  The [Install Directions] give step by step instructions for getting FarmData2 up and running.
+Having a running version of FarmData2 is a prerequisite for many of the forms of participation.  The [Install Directions] give step-by-step instructions for getting FarmData2 up and running.
 
 [Install Directions]: INSTALL.md
 
 #### Bug Reports ####
 
-If you are are a user of FarmData2 and discover something that doesn't seem to be working correctly you can:
+If you are a user of FarmData2 and discover something that doesn't seem to be working correctly you can:
 
   * Reach out to the community on the [Zulip Developer Stream](https://farmdata2.zulipchat.com/#narrow/stream/271292-developers) to discuss what you have found and how to proceed.
   * Search the [Issue Tracker] to see if the bug has been reported already.
@@ -49,7 +49,7 @@ If you are are a user of FarmData2 and have a new feature you would like to see 
 The project [Issue Tracker] contains tickets describing known issues with the project.  The tickets for known issues are tagged with the label "bug".  Each reported bug will have a detailed description of how the bug can be observed. Gardening includes activities such as:
 
   * Verifying or clarifying these descriptions.
-  * Enhance the report by providing additional information about the bug (e.g. platforms on which is is or is not seen).
+  * Enhance the report by providing additional information about the bug (e.g. platforms on which it is or is not seen).
   * Confirming that bug does (or does not) exist in the current version.
 
 To participate by Gardening visit the [Issue Tracker] and find something of interest to verify, enhance or clarify.  Try it out in your running version of FarmData2 and add a comment to the ticket with what you find.
@@ -70,7 +70,7 @@ The above is not an exhaustive list of ways to participate in FarmData2. For som
 
 Interacting with FarmData2 requires a basic familiarity with git and GitHub. FarmData2 development uses a fairly standard web technology stack including HTML, CSS, Bootstrap, JavaScript, and Vue.js. The front-end accesses FarmData2 data through the [FarmOS API](https://farmos.org/development/api/) using the [Axios](https://github.com/axios/axios) library. End-to-end and component testing is done using the [Cypress framework](https://www.cypress.io/).
 
-If you are unfamiliar with one or more of these technologies the [ONBOARDING](ONBOARDING.md) document provides additional information about each, as well as resources and activities for learning about them.
+If you are unfamiliar with one or more of these technologies, the [ONBOARDING](ONBOARDING.md) document provides additional information about each as well as resources and activities for learning about them.
 
 ## Workflow ##
 
